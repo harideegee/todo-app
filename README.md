@@ -6,5 +6,4 @@ To make changes to the source files simply open the Latest Release and download 
 ## Warning!
 Please note that the functionality of this software is very minimal: it only manages creation, removal, editing and display of list elements from a text file (`user_data.txt`). Due to this, the software's security is subject to your computer's security settings. 
 
-![image](https://github.com/harideegee/todo-desktop-app/assets/82701406/86fdd5e6-f1fe-4613-a55c-79fe95fd79e3)
-
+![image](https://github.com/harideegee/todo-app/assets/82701406/5c9dea0f-f16a-40d7-8059-dda9f09ba3ee)
